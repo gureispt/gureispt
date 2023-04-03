@@ -30,12 +30,10 @@
 <br>
 <img align="center" alt="Gustavo-Git" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 <img align="center" alt="Gustavo-GitHub" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-<img align="center" alt="Gustavo-VSCODE" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">  
+<img align="center" alt="Gustavo-VSCODE" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+<img align="center" alt="Gustavo-Linkedin" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"> 
 <br>
 
-<img align="center" alt="Gustavo-Linkedin" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
-
-<br>
 <img align="center" alt="Gustavo-Linux" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 <img align="center" alt="Gustavo-Winsdows" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
 </div>
