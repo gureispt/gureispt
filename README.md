@@ -1,4 +1,4 @@
-### HEY YOU 🫵 LOOK THIS 👇
+### HEY YOU! LOOK THIS 👇
 
 - Atualmente busco estágio na área ou emprego CLT
 - Estudando Java, Java Web, C++ e PHP
