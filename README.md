@@ -7,7 +7,7 @@
 - Fato curioso: Minha primeira formação é como Técnico em Administração <br>
   pela ETEC de Ubatuba
 - Inglês Intermediário
-
+<!-- traduzir para o inglês -->
 
 <div>
   <a href="https://github.com/gureispt">
@@ -46,3 +46,4 @@
   <a href="https://www.linkedin.com/in/gustavo-reis-91742a226" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+![Snake animation](https://github.com/gureispt/gureispt/blob/output/github-contribution-grid-snake.svg)
