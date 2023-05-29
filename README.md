@@ -1,9 +1,9 @@
-### HEY YOU! LOOK THIS 👇
+### LOOK THIS 👇
 
 - Atualmente busco estágio na área ou emprego CLT
 - Estudando Java, Java Web, C++ e PHP
 - Futuramente: Javascript, C#, Python, Banco de Dados, APIs, Frameworks...
-- Fato curioso: Minha primeira formação é como Técnico em Administração <br>
+- Minha primeira formação é como Técnico em Administração <br>
   pela ETEC de Ubatuba
 - Inglês Intermediário
 <!-- traduzir para o inglês -->
