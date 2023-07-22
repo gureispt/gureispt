@@ -1,8 +1,8 @@
-### LOOK THIS 👇
+### 👇
 
-- Atualmente busco estágio na área ou emprego CLT
-- Estudando Java, Java Web, C++ e PHP
-- Minha primeira formação é como Técnico em Administração <br>
+- Atualmente busco emprego na área
+- Estudando frontend
+- Primeira formação é como Técnico em Administração <br>
   pela ETEC de Ubatuba
 - Inglês Intermediário
 <!-- traduzir para o inglês -->
@@ -17,24 +17,18 @@
 <div style="display: inline_block"><br>
 
 <br>
-<img align="center" alt="Gustavo-HTML" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Gustavo-CSS" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Gustavo-C++" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> 
-<img align="center" alt="Gustavo-Java" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img align="center" alt="Gustavo-PHP" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+<img align="center" alt="HTML" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="C++" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> 
+<img align="center" alt="Java" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img align="center" alt="PHP" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
 <br>
-
-<img align="center" alt="Gustavo-Firefox" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg">
 
 <br>
 <img align="center" alt="Gustavo-Git" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img align="center" alt="Gustavo-GitHub" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-<img align="center" alt="Gustavo-VSCODE" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-<img align="center" alt="Gustavo-Linkedin" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"> 
+
 <br>
 
-<img align="center" alt="Gustavo-Linux" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-<img align="center" alt="Gustavo-Winsdows" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
 </div>
 
 ##
