@@ -13,6 +13,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gureispt&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 
+
 ### Linguagens que tenho conhecimento 👇  
 <div style="display: inline_block"><br>
 
