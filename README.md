@@ -31,7 +31,7 @@
 Outras Tecnologias: 
 <br>
 <img align="center" alt="Git" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img align="center" alt="MySQL" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+<img align="center" alt="MySQL" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
 </div>
 
 <div>
