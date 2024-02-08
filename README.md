@@ -1,7 +1,7 @@
 ### 👇
 
 - Atualmente busco emprego na área
-- Estudando Javascript, HTML e CSS
+- Estudando HTML, CSS, Javascript, React.js
 - Primeira formação é como Técnico em Administração <br>
   pela ETEC de Ubatuba
 - Inglês Intermediário
@@ -23,7 +23,7 @@
 <img align="center" alt="CSS" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="C++" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> 
 <img align="center" alt="Java" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img align="center" alt="PHP" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+<img align="center" alt="PHP" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
 <br>
 
 <hr>
