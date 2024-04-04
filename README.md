@@ -1,7 +1,7 @@
 ### 👇
 
 - Atualmente busco emprego na área
-- Estudando HTML, CSS, Javascript, React.js
+- Estudando Javascript e Typescript
 - Primeira formação é como Técnico em Administração <br>
   pela ETEC de Ubatuba
 - Inglês Intermediário
