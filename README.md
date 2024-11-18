@@ -1,4 +1,4 @@
-<p align="left">- Formado em Análise e Desenvolvimento de Sistemas pela FATEC - Praia Grande, SP<br>- Inglês Intermediário</p>
+  <p align="left">- Formado em Análise e Desenvolvimento de Sistemas pela FATEC - Praia Grande, SP<br>- Inglês Intermediário</p>
 
 ###
 
@@ -13,15 +13,15 @@
 ###
 
 <div align="left">
-        <a href="https://www.linkedin.com/in/gustavo-fernandes-reis-91742a226/" target="_blank">
+        <a href="https://www.linkedin.com/in/gustavo-fernandes-reis-91742a226/" style="text-decoration: none;" target="_blank">
             <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
                 width="52" height="40" alt="linkedin logo" />
         </a>
-        <a href="https://www.instagram.com/gustavoreispt/" target="_blank">
+        <a href="https://www.instagram.com/gustavoreispt/" style="text-decoration: none;" target="_blank">
             <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
                 width="52" height="40" alt="instagram logo" />
         </a>
-        <a href="https://outlook.office.com/mail/" target="_blank">
+        <a href="https://outlook.office.com/mail/" style="text-decoration: none;" target="_blank">
             <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg"
                 width="52" height="40" alt="microsoft-outlook logo" />
         </a>
