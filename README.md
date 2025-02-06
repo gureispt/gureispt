@@ -1,4 +1,4 @@
-  <p align="left">- Formado em Análise e Desenvolvimento de Sistemas pela FATEC - Praia Grande, SP<br>- Inglês Intermediário</p>
+  <p align="left">- Formado em Análise e Desenvolvimento de Sistemas pela FATEC - Praia Grande, SP<br>- Desenvolvedor Júnior - A5 Solutions</p>
 
 ###
 
