@@ -1,7 +1,8 @@
 # Gustavo Fernandes Reis
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gureispt&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gureispt&layout=compact&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gureispt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gureispt&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=gureispt&theme=tokyonight&hide_border=true)
 
 💻 **Full-Stack Developer** | 🎓 **FATEC – Praia Grande, SP** – Análise e Desenvolvimento de Sistemas  
 🚀 **Junior Developer** na **A5 Solutions**  
