@@ -42,10 +42,10 @@
 
 ## 📌 Projetos em Destaque | Featured Projects
 
-- [**Projeto Agenda**](https://github.com/gureispt/Projeto-Agenda) — PT: CRUD com JavaScript, Node.js, Express e MongoDB • EN: CRUD with JavaScript, Node.js, Express, and MongoDB  
-- [**To-Do List (Vue.js)**](https://github.com/gureispt/To_Do_List) — PT: Lista de tarefas • EN: Task management app  
-- [**Timer**](https://github.com/gureispt/Timer) — PT: Contador simples • EN: Simple JavaScript timer  
-- [**DIO-JAVA-IA-EUROPE**](https://github.com/gureispt/DIO-JAVA-IA-EUROPE) — PT: Exercícios de Java • EN: Java exercises  
+- [**ASP.NET MVC**](https://github.com/gureispt/ASP.NET-MVC) — PT: Um projeto com frontend completo ASP .NET • EN: Complete frontend ASP .NET
+- [**Projeto Agenda**](https://github.com/gureispt/Projeto-Agenda) — PT: CRUD com JavaScript, Node.js, Express e MongoDB • EN: CRUD with JavaScript, Node.js, Express, and MongoDB
+- [**DIO-JAVA-IA-EUROPE**](https://github.com/gureispt/DIO-JAVA-IA-EUROPE) — PT: Exercícios de Java • EN: Java exercises 
+- [**To-Do List (Vue.js)**](https://github.com/gureispt/To_Do_List) — PT: Lista de tarefas • EN: Task management app     
 
 ---
 
